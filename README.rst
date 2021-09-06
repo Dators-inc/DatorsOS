@@ -1,4 +1,5 @@
 Cinnamon is a Linux desktop that provides advanced innovative features and a traditional user experience.
+
 DatorsOS Is a fork of cinnamon.
 
 The desktop layout is similar to Gnome 2 with underlying technology forked from Gnome Shell.
